@@ -1,4 +1,6 @@
-<img src="https://user-images.githubusercontent.com/68370357/124671985-f8d46500-dec3-11eb-96f9-e0de3f40f73c.png" width="100%" alt="Clean Dev Banner">
+![logo](https://github.com/ashutosh-kumar-dev/ashutosh-kumar-dev/blob/main/tech.jpg)
+<img src="https://raw.githubusercontent.com/ashutosh-kumar-dev/ashutosh-kumar-dev/blob/main/tech.jpg" width="100%" alt="GitHub Banner">
+
 
 
 # 👋 Hi, I'm Ashutosh Kumar!
