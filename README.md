@@ -1,11 +1,17 @@
-# 👋 Hi, I'm [Your Name]!
+<img src="https://user-images.githubusercontent.com/68370357/124671985-f8d46500-dec3-11eb-96f9-e0de3f40f73c.png" width="100%" alt="Clean Dev Banner">
 
-## 🚀 About Me
-- 🔭 I’m currently working on **[Project Name]**
-- 🌱 I’m learning **[Skill/Technology]**
-- 💬 Ask me about **[Your Expertise]**
-- 📫 Reach me at **[Email/LinkedIn]**
-- ⚡ Fun fact: **[Something Cool]**
+
+# 👋 Hi, I'm Ashutosh Kumar!
+
+## 🚀 About Me  
+👋 Hey there! I'm **Ashutosh Kumar**, a passionate **Full-Stack Developer & Tech Enthusiast** who loves building **scalable applications** and solving complex problems. I thrive on exploring new technologies and turning ideas into real-world projects.  
+
+- 🔭 Currently working on **[Your Project Name]** – where I’m building something exciting! 🚀  
+- 🌱 Diving deeper into **Spring Boot, React, TypeScript, AI & ML** to enhance my skill set.  
+- 💬 Always happy to discuss **Java, React, Spring Boot, Android Development, and Big Data** – feel free to ask!  
+- 📫 Reach me on **[LinkedIn](https://www.linkedin.com/in/ashutoshkrmahto/)** or **[Email](mailto:ashutoshkr.mahto@outlook.com)** – let’s connect!  
+- ⚡ Fun fact: **I love working on real-time applications & experimenting with AI-powered projects!** 🤖💡  
+
 
 <img align="right" width="100%" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
 
@@ -28,7 +34,7 @@
 ## 📲 Connect with me:
 <p align="left">
 <a href=https://www.linkedin.com/in/ashutoshkrmahto/" target="blank"><img src="https://skillicons.dev/icons?i=linkedin"alt="https://www.linkedin.com/in/ashutoshkrmahto/" height="30" width="40" /></a>
-<a href="https://mail.google.com/mail/" target="blank"><img src="https://skillicons.dev/icons?i=gmail alt="https://mail.google.com/mail/" height="30" width="40" /></a>
+<a href="mailto:ashutoshkr.mahto@outlook.com" target="blank"><img src="https://skillicons.dev/icons?i=gmail alt="https://mail.google.com/mail/" height="30" width="40" /></a>
 </p>
 
 <p align="center">
