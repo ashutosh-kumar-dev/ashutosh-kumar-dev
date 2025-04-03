@@ -1,6 +1,3 @@
-![logo](https://github.com/ashutosh-kumar-dev/ashutosh-kumar-dev/blob/main/tech.jpg)
-<img src="https://raw.githubusercontent.com/ashutosh-kumar-dev/ashutosh-kumar-dev/blob/main/tech.jpg" width="100%" alt="GitHub Banner">
-
 
 
 # 👋 Hi, I'm Ashutosh Kumar!
