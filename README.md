@@ -10,8 +10,8 @@
 ---
 
 ## 🔥 My GitHub Stats  
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ashutosh-kumar-dev&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashutosh-kumar-dev&layout=compact)
 
 ---
 
@@ -27,8 +27,8 @@
 ---
 
 ## 🏆 GitHub Achievements
-![GitHub followers](https://img.shields.io/github/followers/YourUsername?style=social)  
-![GitHub stars](https://img.shields.io/github/stars/YourUsername?style=social)
+![GitHub followers](https://img.shields.io/github/followers/ashutosh-kumar-dev?style=social)  
+![GitHub stars](https://img.shields.io/github/stars/ashutosh-kumar-dev?style=social)
 
 ---
 
@@ -38,4 +38,4 @@
 ---
 
 ## 🐍 Contribution Graph
-![Snake animation](https://github.com/YourUsername/YourUsername/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/YourUsername/ashutosh-kumar-dev/blob/output/github-contribution-grid-snake.svg)
