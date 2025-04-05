@@ -5,7 +5,6 @@
 ## 🚀 About Me  
 👋 Hey there! I'm **Ashutosh Kumar**, a passionate **Full-Stack Developer & Tech Enthusiast** who loves building **scalable applications** and solving complex problems. I thrive on exploring new technologies and turning ideas into real-world projects.  
 
-- 🔭 Currently working on **[Your Project Name]** – where I’m building something exciting! 🚀  
 - 🌱 Diving deeper into **Spring Boot, React, TypeScript, AI & ML** to enhance my skill set.  
 - 💬 Always happy to discuss **Java, React, Spring Boot, Android Development, and Big Data** – feel free to ask!  
 - 📫 Reach me on **[LinkedIn](https://www.linkedin.com/in/ashutoshkrmahto/)** or **[Email](mailto:ashutoshkr.mahto@outlook.com)** – let’s connect!  
